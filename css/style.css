@@ -176,4 +176,9 @@ textarea {
     .col2 {
         width: 85%;
     }
+
+   .links {
+        margin-bottom: 15vh;
+
+    } 
 }
