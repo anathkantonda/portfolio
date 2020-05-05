@@ -7,7 +7,7 @@
 
 .navbar-brand {
     margin-top: -18px;
-    cursor: default;
+    cursor: pointer;
     color: white;
 }
 
