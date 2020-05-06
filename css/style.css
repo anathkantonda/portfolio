@@ -176,4 +176,8 @@ textarea {
     .col2 {
         width: 85%;
     }
+
+    .hr {
+        margin-top: 380px;
+    }
 }
