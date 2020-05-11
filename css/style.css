@@ -100,8 +100,25 @@ div a:hover {
     grid-area: auto;
 }
 
+.grid a {
+    color: rgb(151, 91, 230);
+}
+
+.grid a:hover {
+    color: rgb(212, 64, 163);
+}
+
+
+.grid p {
+    margin-top: 3vh;
+}
+
 .grid p, .grid h5 {
     text-align: center;
+}
+
+.project1, .project2, .project3 {
+    margin-bottom: 4vh;
 }
 
 .hr {
