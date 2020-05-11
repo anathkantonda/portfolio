@@ -104,6 +104,10 @@ div a:hover {
     text-align: center;
 }
 
+.hr {
+    margin-top: 70px;
+}
+
 footer p{
     text-align: center;
 }
@@ -180,5 +184,25 @@ textarea {
     .hr {
         margin-top: 380px;
     }
+
+    /* projects */
+    .projects p {
+        text-align: center;
+        margin-bottom: 5vh;
+    }
+    
+    .projects h1 {
+        text-align: center;
+        margin-bottom: 3vh;
+        padding-top: 30px;
+    }
+    
+    .grid {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
 }
 
